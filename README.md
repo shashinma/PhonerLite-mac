@@ -1,6 +1,6 @@
 # PhonerLite-mac
 
-![Downloads count](https://img.shields.io/github/downloads/shashinma/PhonerLite-mac/total.svg)
+![Downloads](https://img.shields.io/github/downloads/shashinma/PhonerLite-mac/total.svg)
 
 <p align="center">
   <img src="Icon.png" width="200">
