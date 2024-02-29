@@ -6,7 +6,7 @@
   <img src="Icon.png" width="200">
 </p>
 
-PhoneLite-mac is Heiko Sommerfeldt [PhonerLite](lite.phoner.de) bundled into macOS app with [Wine](https://www.winehq.org).
+PhoneLite-mac is Heiko Sommerfeldt [PhonerLite](https://lite.phoner.de) bundled into macOS app with [Wine](https://www.winehq.org).
 This is not official [Heiko Sommerfeldt](https://de.linkedin.com/in/heiko-sommerfeldt-1988885) build and is not related to Heiko Sommerfeldt in any way.
 
 ## Note
