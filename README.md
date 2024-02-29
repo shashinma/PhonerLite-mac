@@ -9,9 +9,9 @@
 PhoneLite-mac is Heiko Sommerfeldt [PhonerLite](https://lite.phoner.de) bundled into macOS app with [Wine](https://www.winehq.org).
 This is not official [Heiko Sommerfeldt](https://de.linkedin.com/in/heiko-sommerfeldt-1988885) build and is not related to Heiko Sommerfeldt in any way.
 
-## Note
-
-Maintainer wanted. If you want to improve and update PhonerLite-mac to the latest version please contact me.
+> [!NOTE]
+>
+> Maintainer wanted. If you want to improve and update PhonerLite-mac to the latest version please contact me.
 
 <!--
 ## Installation
