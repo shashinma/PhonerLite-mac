@@ -1,6 +1,7 @@
 # PhonerLite-mac
 
-![Downloads](https://img.shields.io/github/downloads/shashinma/PhonerLite-mac/total.svg)
+![GitHub Release](https://img.shields.io/github/v/release/shashinma/PhonerLite-mac?label=Release&display_name=tag&color=%2300A550)
+![Downloads](https://img.shields.io/github/downloads/shashinma/PhonerLite-mac/total?label=Downloads&color=%230076CE)
 
 <p align="center">
   <img src="Icon.png" width="200">
